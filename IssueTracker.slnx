@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/IssueTracker.Api/IssueTracker.Api.csproj" />
+    <Project Path="src/IssueTracker.Application/IssueTracker.Application.csproj" />
+    <Project Path="src/IssueTracker.Domain/IssueTracker.Domain.csproj" />
+    <Project Path="src/IssueTracker.Infrastructure/IssueTracker.Infrastructure.csproj" />
+  </Folder>
+</Solution>
