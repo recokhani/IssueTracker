@@ -3,6 +3,7 @@
   <ItemGroup>
     <ProjectReference Include="..\IssueTracker.Domain\IssueTracker.Domain.csproj" />
     <ProjectReference Include="..\IssueTracker.Application\IssueTracker.Application.csproj" />
+    <ProjectReference Include="..\IssueTracker.Shared\IssueTracker.Shared.csproj" />
   </ItemGroup>
 
   <ItemGroup>
@@ -10,10 +11,6 @@
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="10.0.7" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="10.0.7" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="10.0.7" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Data\" />
   </ItemGroup>
 
   <PropertyGroup>

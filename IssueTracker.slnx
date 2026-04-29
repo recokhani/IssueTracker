@@ -4,5 +4,6 @@
     <Project Path="src/IssueTracker.Application/IssueTracker.Application.csproj" />
     <Project Path="src/IssueTracker.Domain/IssueTracker.Domain.csproj" />
     <Project Path="src/IssueTracker.Infrastructure/IssueTracker.Infrastructure.csproj" />
+    <Project Path="src/IssueTracker.Shared/IssueTracker.Shared.csproj" />
   </Folder>
 </Solution>

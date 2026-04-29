@@ -1,4 +1,3 @@
-using System.Runtime.InteropServices.JavaScript;
 
 namespace IssueTracker.Application.Common.Models;
 //this is Factory pattern 
